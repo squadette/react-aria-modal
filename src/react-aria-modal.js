@@ -1,6 +1,6 @@
 const React = require('react');
 const FocusTrap = require('focus-trap-react');
-const displace = require('react-displace');
+const displace = require('@squadette/react-displace');
 const noScroll = require('no-scroll');
 
 class Modal extends React.Component {
