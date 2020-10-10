@@ -932,9 +932,9 @@
     to-fast-properties "^2.0.0"
 
 "@squadette/react-displace@^2.4.0-pre":
-  version "2.4.0-pre2"
-  resolved "https://registry.yarnpkg.com/@squadette/react-displace/-/react-displace-2.4.0-pre2.tgz#ec7b53420108c0260ad3b84e3a1d71df19ac7def"
-  integrity sha512-qvovcqrON/pvVB1Y2f9mbZb4IG3kM2Y38sgcJs9uxbvCXyfNOBUZw5L+KO1z1osAe/pTzn+SscpL0RTIme62ig==
+  version "2.4.0-pre4"
+  resolved "https://registry.yarnpkg.com/@squadette/react-displace/-/react-displace-2.4.0-pre4.tgz#b123af44fc94477c019b44342d3f0d369c3703d7"
+  integrity sha512-VVe+fj4Kfr9WVw6V1+zdF6f1N7oQvp0fEWxPgNXQ7yXq383bP0gtsN+8B3Tmi2wOb8kDzx7psbKuymD7w4C/cw==
 
 JSONStream@^1.0.3:
   version "1.3.5"
