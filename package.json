@@ -1,6 +1,6 @@
 {
   "name": "@squadette/react-aria-modal",
-  "version": "4.1.0-pre1",
+  "version": "4.1.0-pre2",
   "description": "A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices",
   "main": "dist/react-aria-modal.js",
   "scripts": {
@@ -31,9 +31,9 @@
   },
   "homepage": "https://github.com/davidtheclark/react-aria-modal#readme",
   "dependencies": {
+    "@squadette/react-displace": "^2.4.0-pre",
     "focus-trap-react": "^6.0.0",
-    "no-scroll": "^2.1.1",
-    "@squadette/react-displace": "^2.4.0-pre1"
+    "no-scroll": "^2.1.1"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
